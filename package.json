@@ -2,7 +2,7 @@
   "name": "@kcp/statistics",
   "version": "0.0.1",
   "description": "A plugin which adds 2 statistics oriented stores",
-  "homepage": "https://github.com/KlasaCommunityPlugins/statistics#readme",
+  "homepage": "https://github.com/KlasaCommunityPlugins/statistics",
   "bugs": {
     "url": "https://github.com/KlasaCommunityPlugins/statistics/issues"
   },
